@@ -1,0 +1,23 @@
+
+Instructions: Subset a country and then use that country’s data to answer
+these questions. 
+
+What country got the most loans? Does the number of times a country is referenced relate to the quantity of loans it got?
+
+What sector got the most loans? Does the number of times a sector is referenced relate to the quantity of loans it got?
+
+For the top sector, what activity had the highest amount of loans? What does that say about that activity?
+
+Which region had the highest loan amounts?
+
+What does the loan amount look like for various repayment interval? In various sectors? In various activities?
+
+What were the numbers between male and female recipients? Does that communicate anything?
+
+What sector in the country got the highest loans?
+
+What regions in the country got the highest loans?
+
+
+
+
